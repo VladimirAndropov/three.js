@@ -1,9 +1,9 @@
-three.js
+three.js для практики написания симуляторов
 ========
 
 #### JavaScript 3D library ####
 
-The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides &lt;canvas&gt;, &lt;svg&gt;, CSS3D and WebGL renderers.
+[Live Demo:] (http://vladimirandropov.github.io/three.js/)
 
 [Examples](http://threejs.org/examples/) — [Documentation](http://threejs.org/docs/) — [Migrating](https://github.com/mrdoob/three.js/wiki/Migration) — [Help](http://stackoverflow.com/questions/tagged/three.js)
 
